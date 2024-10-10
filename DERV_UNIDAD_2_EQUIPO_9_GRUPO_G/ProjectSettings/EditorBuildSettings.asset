@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CambioEscena/Inicio.unity
+    guid: 571b28623406c5e49a023765f76c19bf
+  - enabled: 0
+    path: Assets/CambioEscena/EntornoVirtual.unity
+    guid: c3469e35910625f47ba1eb5f170a12cb
+  - enabled: 0
+    path: Assets/CambioEscena/Fin.unity
+    guid: 17fe3f65ff899394896d9e92f83c867b
+  - enabled: 1
+    path: Assets/Scenes_P/Practic_5.unity
+    guid: cc19305e67288e241aefb003777082a1
+  - enabled: 1
+    path: Assets/Scenes_P/Practic_5 1.unity
+    guid: 9089a853efb70664d806a9be09ad277b
+  - enabled: 1
+    path: Assets/Scenes_P/Practic_5 2.unity
+    guid: b1e5775ec87279f4bb62601fc9ae3864
+  - enabled: 0
+    path: Assets/Scenes/ContadorTiempoV2.unity
+    guid: 8fd0cd265af5b1f48807348214e119b1
+  - enabled: 0
+    path: Assets/Scenes/Triggers.unity
+    guid: da4de8ed75a363d41983b4dc79568926
+  m_configObjects: {}
