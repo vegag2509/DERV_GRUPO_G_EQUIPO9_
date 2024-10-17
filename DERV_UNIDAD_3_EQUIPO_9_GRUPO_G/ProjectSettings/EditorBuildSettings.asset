@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes_P/Practica_6 2.unity
     guid: 7f66a08da80172a48afdad045bad2793
+  - enabled: 1
+    path: Assets/Scenes/Exp_UI/Escena_1_Inicio.unity
+    guid: fc4eb44d7acafff4591c05c68d8288ee
+  - enabled: 1
+    path: Assets/Scenes/Exp_UI/Escena_2_Dinamica.unity
+    guid: 87907c82743116c499a866f35ede1e8e
+  - enabled: 1
+    path: Assets/Scenes/Exp_UI/Escena_3_Fin.unity
+    guid: e320c27fe9315cd4d85b05cab2f18c0c
   m_configObjects: {}

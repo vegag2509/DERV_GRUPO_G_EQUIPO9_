@@ -10,7 +10,7 @@ public class Movimiento_enemigo : MonoBehaviour
 
     private void Awake()
     {
-        ubi_Personaje = GameObject.Find("Player").GetComponent<Transform>();
+        ubi_Personaje = GameObject.Find("Player").GetComponent<Transform>();   
     }
 
     // Start is called before the first frame update

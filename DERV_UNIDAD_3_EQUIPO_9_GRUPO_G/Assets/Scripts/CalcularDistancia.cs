@@ -12,7 +12,6 @@ public class CalcularDistancia : MonoBehaviour
     public float getdistancia()
     {
         return distancia;
-
     }
 
     private void Awake()
